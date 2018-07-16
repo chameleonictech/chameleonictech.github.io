@@ -100,6 +100,10 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+### Gig image
+
+![Gif](https://media.giphy.com/media/1bLoA1EK0keJJXT6Fs/giphy.gif){:class="img-gif"}
+
 
 ### Definition lists can be used with HTML syntax.
 

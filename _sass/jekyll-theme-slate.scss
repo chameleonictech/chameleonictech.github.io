@@ -154,6 +154,11 @@ p img {
   border: none;
 }
 
+p img.img-gif {
+  border: 20px solid #0090ff;
+  border-radius: 10px;
+}
+
 pre, code {
   color: #222;
   background-color: #fff;
