@@ -18,6 +18,7 @@ layout: default
 * Error recovery from missing references
 * Seamless unity integration
 * Dark and Light theme support
+* Test suite to prevent regressions
 
 * * *
 
