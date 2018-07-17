@@ -17,9 +17,10 @@ layout: default
 * Full keyboard selection support
 * Error recovery from missing references
 * Seamless unity integration
+* Dark and Light theme support
 
 * * *
 
 ### Gif image
 
-![Gif]({{site.url}}/assets/images/demogifs/ErrorHandling-and-Recovery.gif){:class="img-gif"}
+![Gif](/assets/images/demogifs/ErrorHandling-and-Recovery.gif){:class="img-gif"}
