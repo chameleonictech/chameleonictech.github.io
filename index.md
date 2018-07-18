@@ -7,8 +7,9 @@ layout: default
 ## Features
 
 * Multiple private favorites list
-* Drop assets to add to favorites
+* Drop assets or folders to add to favorites
 * Full multi-selection support
+* Multiple folder selection shows the combined contents of all folders (only when project is in 2 column mode)
 * Drag from favorites and drop to any scene or field
 * Full undo support
 * Double click to open file ( script, scene, ...)
