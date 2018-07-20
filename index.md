@@ -23,6 +23,6 @@ layout: default
 
 * * *
 
-### Gif image
+### Error detection and recovery
 
-![Gif](/assets/images/demogifs/ErrorHandling-and-Recovery.gif){:class="img-gif"}
+![Error handling and recovery](/assets/images/demogifs/ErrorHandling-and-Recovery.gif){:class="img-gif"}
