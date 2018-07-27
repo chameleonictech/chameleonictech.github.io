@@ -23,6 +23,18 @@ layout: default
 
 * * *
 
+### Drag&Drop to add and reorder
+
+![Drag&Drop to add and reorder](/assets/images/demogifs/DragAndDropToAddAndReorder.gif){:class="img-gif"}
+
+### Click to locate and select
+
+![Click to select and locate](/assets/images/demogifs/SelectAndLocateWithMultipleSelection.gif){:class="img-gif"}
+
+### Double Click to open
+
+![Click to select and locate](/assets/images/demogifs/DoubleClickToOpen.gif){:class="img-gif"}
+
 ### Error detection and recovery
 
 ![Error handling and recovery](/assets/images/demogifs/ErrorHandling-and-Recovery.gif){:class="img-gif"}
