@@ -1,8 +1,8 @@
 name: Chameleonic Tools
-title: Chameleonic Title
+title: Chameleonic
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-description: Chameleonic web description
+description: Seamless unity extensions
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
