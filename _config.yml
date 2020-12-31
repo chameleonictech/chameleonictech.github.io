@@ -1,8 +1,0 @@
-name: Chameleonic Tools
-title: Chameleonic
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-description: Seamless unity extensions
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-slate
